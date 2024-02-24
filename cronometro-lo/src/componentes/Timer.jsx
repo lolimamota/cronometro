@@ -1,3 +1,5 @@
+//AULA DO CRONOMETRO
+
 import React, {useState} from "react"
 
 // SETTIMEOUT: É UM MEDTODO QUE EXECUTARÁ UM CODIGO APÓS O TEMPO ESPECIFICADO(DELAY), o tempo correspondido por milisegundos (3s = 3000 ms)
